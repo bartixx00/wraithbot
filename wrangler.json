@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "wraithbot",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c702c8e4-1ae4-4452-88a8-11b704793a2c",
+			"database_name": "wraithbotdatabase"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
